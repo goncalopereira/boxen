@@ -34,6 +34,3 @@ github "sudo",     "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "zsh", "1.0.0"
-github "onyx", "1.0.0"
-github "github_for_mac", "1.0.0"
