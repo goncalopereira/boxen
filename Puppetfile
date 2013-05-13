@@ -43,3 +43,4 @@ github "cyberduck", "1.0.0" #sftp
 github "spotify", "1.0.0"
 github "appcleaner", "1.0.0"
 github "flux", "0.0.1"
+github "mou", "1.0.0"
