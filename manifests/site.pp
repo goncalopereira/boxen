@@ -93,6 +93,9 @@ include onyx
 include iterm2::stable
 include cyberduck
 include spotify
+include appcleaner
+include flux
 
 }
+
 
