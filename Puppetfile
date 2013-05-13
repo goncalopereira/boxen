@@ -34,3 +34,8 @@ github "sudo",     "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+github "zsh", "1.0.0"
+github "onyx", "1.0.1"
+github "chrome", "1.1.0"
+github "firefox", "1.0.6"
+github "iterm2", "1.0.2"

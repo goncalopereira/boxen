@@ -86,7 +86,11 @@ node default {
     target => $boxen::config::repodir
   }
 
-
+### my things
+include chrome
+include firefox
 include onyx
+include iterm2::stable
+
 }
 
