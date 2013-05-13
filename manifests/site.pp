@@ -91,6 +91,8 @@ include chrome
 include firefox
 include onyx
 include iterm2::stable
+include cyberduck
+include spotify
 
 }
 
