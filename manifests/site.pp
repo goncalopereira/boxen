@@ -99,6 +99,7 @@ include mou
 include crashplan
 include transmission
 include watts
+include github_for_mac
 }
 
 
