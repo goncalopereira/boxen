@@ -96,8 +96,9 @@ include spotify
 include appcleaner
 include flux
 include mou
-
+include crashplan
 }
+
 
 
 
