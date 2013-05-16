@@ -97,7 +97,9 @@ include appcleaner
 include flux
 include mou
 include crashplan
+include transmission
 }
+
 
 
 
