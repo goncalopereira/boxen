@@ -92,7 +92,7 @@ include firefox
 include onyx
 include iterm2::stable
 include cyberduck
-include spotify
+#include spotify
 include appcleaner
 include flux
 include mou

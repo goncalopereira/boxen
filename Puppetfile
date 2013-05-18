@@ -40,7 +40,6 @@ github "chrome", "1.1.0"
 github "firefox", "1.0.6"
 github "iterm2", "1.0.2" #terminal
 github "cyberduck", "1.0.0" #sftp
-github "spotify", "1.0.0"
 github "appcleaner", "1.0.0"
 github "flux", "0.0.1"
 github "mou", "1.0.0"
