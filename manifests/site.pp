@@ -100,6 +100,9 @@ include crashplan
 include transmission
 include watts
 include github_for_mac
+include colloquy
+include alfred
+include vagrant
 }
 
 
