@@ -103,6 +103,7 @@ include github_for_mac
 include colloquy
 include alfred
 include vagrant
+include virtualbox
 }
 
 
