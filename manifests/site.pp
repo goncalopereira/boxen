@@ -106,7 +106,9 @@ include vagrant
 include virtualbox
 }
 
-
+class { 'intellij':
+  edition => 'community',
+}
 
 
 
